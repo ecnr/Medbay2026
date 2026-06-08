@@ -265,6 +265,14 @@ Add supervised automation
 Expand into regenerative workflows
 Add molecular and genetic layers
 Build the full ecosystem
+
+
+
+
+
+
+*******************************************
+
 Čeština
 Účel
 
