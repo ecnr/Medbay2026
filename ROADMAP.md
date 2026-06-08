@@ -378,21 +378,220 @@ Podmínka ukončení:
 Opakovatelné úkoly lze provádět s omezeným lidským zásahem
 Systém se umí bezpečně zastavit při nejistotě
 Výkonnost je reprodukovatelná napříč testy
-Fáze 4: Regenerativní Med-Bay
 
-Cíl: přidat terapie zaměřené na opravu tkání nad rámec klasické chirurgie.
 
-Schopnosti:
+# Fáze 4: Regenerativní Med-Bay
 
-Podpora tkáňového inženýrství
-Práce s kmenovými buňkami
-Rozhraní pro biofabrikaci
-Cílené podávání regenerativních léčiv
-Minimalizace jizev
-Optimalizace hojení ran
-Plánování podpory a náhrady orgánů
+## Cíl
 
-Výstupy:
+Rozšířit systém za hranice klasické chirurgie a farmakoterapie směrem k aktivní opravě a obnově lidského těla.
 
-Rozhraní pro biotisk
-Workflow pro zpracování buněk a sterilizaci
+Namísto pouhého odstranění problému má systém podporovat skutečnou regeneraci poškozených struktur.
+
+## Schopnosti
+
+### Buněčná regenerace
+- práce s kmenovými buňkami
+- diferenciace buněk
+- obnova poškozených tkání
+- regenerace nervové tkáně
+
+### Tkáňové inženýrství
+- pěstování tkání
+- výroba náhradních tkání
+- opravy chrupavek
+- opravy kostí
+- opravy vazů a šlach
+
+### Biofabrikace
+- biotisk tkání
+- biotisk cév
+- biotisk orgánových struktur
+- automatizovaná výroba implantátů
+
+### Regenerační terapie
+- podávání růstových faktorů
+- exozomy a buněčná komunikace
+- podpora hojení ran
+- snižování jizvení
+- obnova funkce po úrazech a operacích
+
+## Výstupy
+
+- rozhraní pro biotisk
+- workflow pro zpracování buněk a sterilizaci
+- výzkumný sandbox regenerace
+- knihovna biomateriálů
+- personalizovaný plánovač léčby
+
+## Podmínka ukončení fáze
+
+- experimentální regenerační postupy lze bezpečně testovat v kontrolovaném prostředí
+- buněčné a tkáňové procesy jsou sledované od začátku do konce
+- klinický a výzkumný režim jsou striktně oddělené
+
+---
+
+# Fáze 5: Genetická a molekulární vrstva opravy
+
+## Cíl
+
+Podpořit budoucí terapie, které opravují nemoc na molekulární a genetické úrovni.
+
+## Schopnosti
+
+### Genetická léčba
+- integrace workflow genové terapie
+- podpora cílení na mutace
+- personalizace podle biomarkerů
+- plánování zásahů do genetické informace
+
+### Molekulární diagnostika
+- detailní analýza biomarkerů
+- časné rozpoznání molekulárních odchylek
+- sledování odpovědi na léčbu
+- klasifikace rizik podle biologického profilu
+
+### Cílené doručování léčby
+- přesné podání léčiv
+- molekulárně cílená léčba
+- podpora léčebných zásahů s vysokou specifitou
+- plánování s ohledem na imunitní systém
+
+## Výstupy
+
+- pipeline molekulární diagnostiky
+- nástroje pro plánování genetických zásahů
+- bezpečná biologická datová vrstva
+- systém klasifikace rizik terapií
+
+## Podmínka ukončení fáze
+
+- genové terapie lze modelovat, plánovat a sledovat
+- bezpečnostní a etické kontroly jsou explicitní
+- experimentální protokoly jsou oddělené od rutinní péče
+
+---
+
+# Fáze 6: Komplexní autonomní péče
+
+## Cíl
+
+Sjednotit diagnostiku, léčbu, rehabilitaci a následné sledování do jediného inteligentního prostředí.
+
+## Schopnosti
+
+- nepřetržité sledování pacienta
+- prediktivní medicína
+- personalizovaná preventivní péče
+- automatizovaný pooperační dohled
+- adaptivní rehabilitační programy
+- multimodální plánování terapie
+- koordinace více specializací současně
+
+## Výstupy
+
+- jednotná konzole zdravotních dat
+- digitální dvojče pacienta v čase
+- motor uvažování napříč specializacemi
+- časová osa péče pro konkrétního pacienta
+- modul optimalizace zotavení
+
+## Podmínka ukončení fáze
+
+- systém umí koordinovat více oblastí péče pro jednoho pacienta
+- výsledky lze sledovat v čase
+- platforma se učí z předchozích případů a přitom neztrácí dohledatelnost
+
+---
+
+# Fáze 7: Pokročilá obnova a dlouhověkost
+
+## Cíl
+
+Rozšířit platformu směrem k opravám souvisejícím se stárnutím, funkční obnově a budoucí medicíně dlouhověkosti.
+
+## Schopnosti
+
+- sledování biologického věku
+- monitorování markerů senescence
+- analýza kumulace poškození
+- plánování funkčního omlazení
+- odhad rezerv orgánů
+- podpora intervencí dlouhověkosti
+- sledování dlouhodobé vitality a obnovy funkcí
+
+## Výstupy
+
+- přehled biomarkerů stárnutí
+- hodnocení integrity tkání
+- dlouhodobé modely prevence
+- výzkumné rozhraní pro rejuvenační terapie
+
+## Podmínka ukončení fáze
+
+- ukazatele stárnutí jsou sledovány strukturovaně
+- intervence lze porovnávat s biologickým základem
+- budoucí terapie lze přidávat bez přestavby celé platformy
+
+---
+
+# Fáze 8: Plně integrovaný ekosystém Med-Bay
+
+## Cíl
+
+Dosáhnout zralého zdravotnického prostředí, kde pacient vstoupí, je kompletně vyšetřen, léčen, opraven, rehabilitován a dále sledován prostřednictvím jednoho koordinovaného systému.
+
+## Schopnosti
+
+- end-to-end koordinace klinického procesu
+- automatizace napříč specializacemi
+- autonomní logistika uvnitř medicínského prostoru
+- průběžná kontrola kvality
+- vzdálený zásah odborníka
+- soužití výzkumu, výuky a péče
+- nouzový režim pro krizové situace
+
+## Výstupy
+
+- plně modulární architektura medicínského bay
+- nástrojová sada pro integraci do nemocnic
+- nouzový režim
+- verze pro krizové nasazení
+- otevřený ekosystém standardů pro moduly třetích stran
+
+## Podmínka ukončení fáze
+
+- systém se chová jako platforma, ne jako jeden stroj
+- nové moduly lze přidávat bez přestavby jádra
+- klinické, výzkumné i výukové scénáře mohou fungovat současně
+
+---
+
+# Průřezové pracovní proudy
+
+Tyto oblasti běží napříč všemi fázemi:
+
+- bezpečnostní inženýrství
+- regulační plánování
+- kybernetická bezpečnost
+- inženýrství lidských faktorů
+- klinická validace
+- správa dat
+- standardy interoperability
+- otevřená dokumentace
+- simulace a benchmarky
+- etické přezkoumání
+
+---
+
+# Doporučené pořadí vývoje
+
+1. Definovat architekturu
+2. Vytvořit simulátor
+3. Standardizovat rozhraní
+4. Integrovat existující zařízení
+5. Přidat řízenou automatizaci
+6. Rozšířit se do regeneračních workflow
+7. Přidat molekulární a genetické vrstvy
+8. Vybudovat celý ekosystém
